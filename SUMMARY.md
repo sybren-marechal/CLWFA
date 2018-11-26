@@ -1,0 +1,16 @@
+# Table of contents
+
+* [CLWFA](README.md)
+* [IP Configuratie](ip-configratie/README.md)
+  * [VLAN](ip-configratie/vlans.md)
+  * [Server IP](ip-configratie/server-ips.md)
+  * [Switch IP](ip-configratie/switch-ips.md)
+  * [Printer IP](ip-configratie/untitled-1.md)
+* [Cisco](untitled-2.md)
+* [Linux](untitled.md)
+* [Windows](windows/README.md)
+  * [Domain Controller](windows/domain-controller.md)
+  * [File/Print server](windows/file-print-server.md)
+* [Fortinet](fortinet.md)
+* [Axis](axis.md)
+
